@@ -150,7 +150,9 @@ Curated list of express.js resources
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 To the extent possible under law, [El Hassania Hechadi](https://hechadielhassania.github.io) has waived all copyright and related or neighboring rights to this work.
 
