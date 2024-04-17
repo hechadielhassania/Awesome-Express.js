@@ -13,6 +13,8 @@ If you're new to Express.js, you can quickly get started by following these step
    npx express-generator my-express-app
 
 3. Install dependencies: Navigate into your project directory and install the dependencies using npm or yarn.
-    cd my-express-app
-    npm install
+
+   ```bash
+   cd my-express-app
+   npm install
 
